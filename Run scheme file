@@ -1,0 +1,3 @@
+run scheme file 
+mzscheme -r hello.scm 
+or, mzscheme 然后 (load "hello.scm")
